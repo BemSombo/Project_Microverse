@@ -21,3 +21,16 @@ body{
 #tribute-info{
     text-align: center;
 }
+
+.contain-body{
+    max-width: 700px;
+    margin: 0 auto;
+}
+.contain-body ul{
+    margin: 0;
+    padding: 0;
+}
+#tribute{
+    text-align: center;
+    margin: 15px auto !;
+}
