@@ -1,3 +1,20 @@
+body{
+    background: #ccc;
+}
 #title{
     text-align: center;
+}
+#img-div{
+    text-align: center;
+    width: 80%;
+    padding: 20px;
+    margin: 0 auto;
+    background-color: white;
+   
+}
+#img-div img{
+    width: 70%;
+    margin: 0 auto;
+    display: block;
+    height: 500px !important;
 }
